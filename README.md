@@ -21,5 +21,5 @@ Status | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |:heavy_che
 
 | Task                                              | Status |
 | ------------------------------------------------- | ----   |
-| <input type="checkbox" disabled checked /> works  |      |
-| <input type="checkbox" disabled /> works here too |      |
+| <input type="checkbox" disabled checked /> Dataset  |      |
+| <input type="checkbox" disabled  checked/> Create web app |      |
