@@ -17,3 +17,9 @@ Checkpoints | Dataset | Create web app | Implement model | Preprocessing functio
 :------------ | :-------------| :-------------| :-------------| :-------------| :-------------| :-------------| :-------------| :-------------
 Status | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: | :white_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:
 
+
+
+| demo                                              | demo |
+| ------------------------------------------------- | ---- |
+| <input type="checkbox" disabled checked /> works  |      |
+| <input type="checkbox" disabled /> works here too |      |
