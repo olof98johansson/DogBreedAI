@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DogBreedAI</title>
+    <style>
+        body{
+           background-image: url("https://image.freepik.com/free-photo/vertical-closeup-shot-white-brown-dog-with-red-leash-green-grass_181624-3979.jpg"), url("https://www.wallpapertip.com/wmimgs/85-854075_cat-and-dog-vertical.jpg");
+           background-repeat: no-repeat, no-repeat;
+           background-position: left top, right top;
+           background-size: 375px 590px, 375px 590px;
+           margin-left: 390px;
+           margin-right: 390px;
+        }
+
+        .boxed {
+        border: 1px solid black ;
+        background-color: rgb(204,204,255,0.3);
+        }
+
+    </style>
+    <link rel="icon" href="https://toppng.com/uploads/preview/dog-paw-print-png-dog-paw-11563597387zsw1pcwdge.png">
+  </head>
+  <body style = "background-color:rgb(204,204,255,0.3)">
+
+
+<link href="{{ url_for('static', filename='main.css') }}" rel="stylesheet">
+
+
+<div class="container">
+    <h1 style = "text-align:center; font-family:courier">Determine what cute little doggie you've seen</h1>
+    <div class="jumbotron" style="border: 3px solid black">
+	<h2 style = "text-align:center">Upload a dog image</h2>
+    <br>
+    <form action="" method=post enctype=multipart/form-data style = "text-align:center">
+      <input type=file name=file accept="image/*">
+      <input type=submit value=Upload>
+    </form>
+
+    <h2 style = "text-align:center">Results</h2>
+    <hr>
+    <table class="table" id="results-table" style = "text-align:right">
+        <tr>
+          <th style = "text-align:center">Image</th>
+          <th style = "text-align:center">Prediction</th>
+        </tr>
+		<tr>
+          {% block content %}
+          {% endblock %}
+        </tr>
+    </table>
+  </div>
+</div>
+</body>
+</html>
