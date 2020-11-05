@@ -8,5 +8,5 @@ Initially using pretrained [ResNeXt](https://arxiv.org/abs/1611.05431) as classi
 <br>
 The following image shows the current status of the web application in its early stage
 
-![alt text](../ForGit/tutorial_img1.png?raw=true "Current status")
+![Current status](https://github.com/olof98johansson/DogBreedAI/blob/main/status/first.PNG?raw=true)
 
