@@ -19,7 +19,7 @@ Status | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |:heavy_che
 
 
 
-| demo                                              | demo |
-| ------------------------------------------------- | ---- |
+| Task                                              | Status |
+| ------------------------------------------------- | ----   |
 | <input type="checkbox" disabled checked /> works  |      |
 | <input type="checkbox" disabled /> works here too |      |
