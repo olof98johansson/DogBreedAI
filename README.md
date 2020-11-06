@@ -23,3 +23,11 @@ Status | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |:heavy_che
 | ------------------------------------------------- | ----   |
 | <input type="checkbox" disabled checked /> Dataset  |      |
 | <input type="checkbox" disabled  checked/> Create web app |      |
+| <input type="checkbox" disabled  checked/> Implement model |      |
+| <input type="checkbox" disabled  checked/> Preprocessing functions |      |
+| <input type="checkbox" disabled  checked/> Initial ML pipeline |      |
+| <input type="checkbox" disabled  checked/> Phone scalability |      |
+| <input type="checkbox" disabled  checked/> Improve performance |      |
+| <input type="checkbox" disabled  checked/> "Fun fact" feature |      |
+| <input type="checkbox" disabled  checked/> "Fun fact" feature |      |
+| <input type="checkbox" disabled  checked/> Aesthetics & design |      |
