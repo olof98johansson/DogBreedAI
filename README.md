@@ -21,8 +21,8 @@ Status | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |:heavy_che
 
 | Task                                              | Status |
 | ------------------------------------------------- | ----   |
-| <input type="checkbox" disabled checked /> Dataset  |      |
-| <input type="checkbox" disabled  checked/> Create web app |      |
+| :black_circle: <input type="checkbox" disabled checked /> Dataset  |      |
+| :black_circle: <input type="checkbox" disabled  checked/> Create web app |      |
 | <input type="checkbox" disabled  checked/> Implement model |      |
 | <input type="checkbox" disabled  checked/> Preprocessing functions |      |
 | <input type="checkbox" disabled  checked/> Initial ML pipeline |      |
