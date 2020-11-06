@@ -13,21 +13,17 @@ The image below shows the current status of the web application in its early sta
 <br>
 which can input an image from gallery, upload it, and make a valid prediction. The following list illustrates what has been done and what will be done.
 
-Checkpoints | Dataset | Create web app | Implement model | Preprocessing functions | Initial ML pipeline | Phone scalability | Improve performance | "Fun fact" feature | More aesthetics
-:------------ | :-------------| :-------------| :-------------| :-------------| :-------------| :-------------| :-------------| :-------------
-Status | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: | :white_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:
 
 
-
-| Task                                              | Status |
+| Checkpoint                                              | Status |
 | ------------------------------------------------- | ----   |
-| :black_circle: <input type="checkbox" disabled checked /> Dataset  |      |
-| :black_circle: <input type="checkbox" disabled  checked/> Create web app |      |
-| <input type="checkbox" disabled  checked/> Implement model |      |
-| <input type="checkbox" disabled  checked/> Preprocessing functions |      |
-| <input type="checkbox" disabled  checked/> Initial ML pipeline |      |
-| <input type="checkbox" disabled  checked/> Phone scalability |      |
-| <input type="checkbox" disabled  checked/> Improve performance |      |
-| <input type="checkbox" disabled  checked/> "Fun fact" feature |      |
-| <input type="checkbox" disabled  checked/> "Fun fact" feature |      |
-| <input type="checkbox" disabled  checked/> Aesthetics & design |      |
+| :black_circle: <input type="checkbox" disabled checked /> Dataset  |  :heavy_check_mark:    |
+| :black_circle: <input type="checkbox" disabled  checked/> Create web app |  :heavy_check_mark:    |
+| :black_circle: <input type="checkbox" disabled  checked/> Implement model |  :heavy_check_mark:    |
+| :black_circle: <input type="checkbox" disabled  checked/> Preprocessing functions |  :heavy_check_mark:    |
+| :black_circle: <input type="checkbox" disabled  checked/> Initial ML pipeline |  :heavy_check_mark:    |
+| :black_circle: <input type="checkbox" disabled  checked/> Phone scalability |   :clock930:   |
+| :black_circle: <input type="checkbox" disabled  checked/> Improve performance |  :clock930:    |
+| :black_circle: <input type="checkbox" disabled  checked/> "Fun fact" feature |  :clock930:    |
+| :black_circle: <input type="checkbox" disabled  checked/> "Fun fact" feature |  :clock930:    |
+| :black_circle: <input type="checkbox" disabled  checked/> Aesthetics & design |  :clock930:    |
